@@ -1,2 +1,2 @@
 # FIFAWC_Markovchain
-Proyecto de la materia Modelos Computacionales con uso de librerías como Shiny y markovchain
+Descripción: El proyecto constara de analizar los resultados de los últimos 10 mundiales del TOP 10 equipos en el Ranking FIFA, utilizando cadenas de markov y los datos anteriormente obtenidos se obtendrán las posibilidades de que alguno de los 10 equipos no clasifique al mundial, se quede en fase de grupos, octavos, cuartos, semifinales, inclusive que llegue a la final y la gane o la pierda, se usaran las librerías shiny y markovchain para una correcta implementación e interpretación de dicho proyecto. 
